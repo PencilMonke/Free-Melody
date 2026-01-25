@@ -23,15 +23,11 @@
     </div>
 
     <div class="right-column">
-	<h1>It's not easy to get into the Devlopmental Institute of Science and Technology...</h1>
+	<h1>It's not easy to get into the Influence Institute of Science and Technology...</h1>
  
-        <p>This is your home page! It's the main landing page for anyone visiting your website, so make sure it looks good!</p>
+        <p>But that never mattered to Ophelia. When everyone told her it was impossible, she didn't believe them. Through sheer determination and smarts alone, she forced her way into acceptance. Now that she's there, she's got her mind set on becoming the first to crack the code on real cybernetics.</p>
 
-        <p>You can change what's on this page by editing the file found at <code>/your_content/home page.txt</code>.
-            I've even included comments in that file to help you out, if you're new to HTML.</p>
-
-        <p>You'll probably want to have links like these to your <a href="comic/001/#comic-page">first</a> and
-            <a href="latest/#comic-page">last</a> comic pages on your homepage. Or you can use buttons like those below!</p>
+        <p>At least, that would be the story, in a perfect world. But this ins't a perfect world.</p>
 
         <!-- If you want to make your link look like a button, add class="button" to your 'a' tag like so: -->
         <a class="button" href="comic/001/#comic-page">First Page</a>
