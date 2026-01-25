@@ -27,7 +27,9 @@
  
         <p>But that never mattered to Ophelia. When everyone told her it was impossible, she didn't believe them. Through sheer determination and smarts alone, she forced her way into acceptance. Now that she's there, she's got her mind set on becoming the first to crack the code on real cybernetics.</p>
 
-        <p>At least, that would be the story, in a perfect world. But this ins't a perfect world.</p>
+        <p>At least, that would be the story. In a perfect world. But this ins't a perfect world. Far from it.</p>
+
+	<p></p>
 
         <!-- If you want to make your link look like a button, add class="button" to your 'a' tag like so: -->
         <a class="button" href="comic/001/#comic-page">First Page</a>
