@@ -46,7 +46,7 @@ a.link-bar-link {
 }
 
 a.link-bar-link:hover {
-    color: black;  /* The color of the links in your links bar while the cursor is hovering over them */
+    color: #770068;  /* The color of the links in your links bar while the cursor is hovering over them */
 }
 
 /* Comic navigation buttons */
