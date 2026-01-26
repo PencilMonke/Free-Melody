@@ -42,6 +42,7 @@ a.link-bar-link {
     color: black;  /* The color of the links in your links bar */
     font-weight: bold;  /* Delete this to unbold the links in your links bar*/
     text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
+    font-family: 'Mozilla Headline';
 }
 
 a.link-bar-link:hover {
