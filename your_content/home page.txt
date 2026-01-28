@@ -21,7 +21,7 @@
     </div>
 
     <div class="right-column">
-	<h1>It's not easy to get into the Influence Institute of Science and Technology...</h1>
+	<h1>The Influence Institute of Science and Technology...</h1>
  
         <p>But that never mattered to Ophelia. When everyone told her it was impossible, she didn't believe them. Through sheer determination and smarts alone, she forced her way into acceptance. Now that she's there, she's got her mind set on becoming the first to crack the code on cybernetic implants.</p>
 
