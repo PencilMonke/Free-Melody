@@ -33,7 +33,9 @@
         <a href="comic/001/#comic-page">
 		<img src="your_content/images/navigation_icons/Icon_First.png">
 			</a>
-        <a class="button" href="latest/#comic-page">Latest Page</a>
+        <a href="latest/#comic-page">
+		<img src = "your_content/images/navigation_icons/Icon_Latest_Disabled.png">
+			</a>
 
         <!--
         If you want to set some information apart, you can set the class as "infobox"! That will put your content in a
