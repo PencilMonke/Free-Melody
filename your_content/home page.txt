@@ -34,7 +34,7 @@
 		<img src="your_content/images/navigation_icons/Icon_First.png">
 			</a>
         <a href="latest/#comic-page">
-		<img src = "your_content/images/navigation_icons/Icon_Latest_Disabled.png">
+		<img src = "your_content/images/navigation_icons/Icon_Latest.png">
 			</a>
 
         <!--
