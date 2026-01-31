@@ -35,13 +35,7 @@
         <a href="latest/#comic-page">
 		<img src = "your_content/images/navigation_icons/Icon_Latest.png">
 			</a>
-
-        <!--
-        If you want to set some information apart, you can set the class as "infobox"! That will put your content in a
-        different block of color, which can be defined in stylesheet.css.
-        -->
-        
-</div>
+    </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
 
 <h2>Need some hints on where to go next?</h2>
