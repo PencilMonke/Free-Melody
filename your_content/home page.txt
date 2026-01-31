@@ -36,6 +36,7 @@
 		<img src = "your_content/images/navigation_icons/Icon_Latest.png">
 			</a>
     </div>
+</div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
 
 <h2>Need some hints on where to go next?</h2>
