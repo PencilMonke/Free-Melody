@@ -27,7 +27,6 @@
 
         <p>At least, that would be the story. In a perfect world. But this ins't a perfect world. Far from it.</p>
 
-	<p></p>
 
         <!-- If you want to make your link look like a button, add class="button" to your 'a' tag like so: -->
         <a href="comic/001/#comic-page">
@@ -42,7 +41,6 @@
         different block of color, which can be defined in stylesheet.css.
         -->
         
-    </div>
 </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
 
