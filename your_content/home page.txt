@@ -23,7 +23,7 @@
     <div class="right-column">
 	<h1>The Influence Institute of Science and Technology...</h1>
  
-        <p>But that never mattered to Ophelia. When everyone told her it was impossible, she didn't believe them. Through sheer determination and smarts alone, she forced her way into acceptance. Now that she's there, she's got her mind set on becoming the first to crack the code on cybernetic implants.</p>
+        <p></p>
 
         <p>At least, that would be the story. In a perfect world. But this ins't a perfect world. Far from it.</p>
 
