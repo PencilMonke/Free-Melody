@@ -1,1 +1,4 @@
-NARRATOR: Four Years Ago
+AI: There is not much time left. You will soon be--
+Unknown: I can hear the sirens. Tell me something useful.
+AI: With their current speed and traffic conditions, you will only have time for a single upload.
+Unknown: See? Was that so hard?
