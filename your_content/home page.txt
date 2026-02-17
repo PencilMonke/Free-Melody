@@ -25,7 +25,7 @@
  
         <p>One of the most prestigious colleges in the world, and more importantly, the leading research institution on Implant-Based Cybernetics. And Ophelia, as many students there do, is studying to be a part of the team that finally cracks the code and makes these cybernetics possible, which would change the world.</p>
 
-        <p>But when the disappearance of a friend leads her to uncover a dark government secret that no one else seems to know or care about, she is forced to choose; Go searching for her friend, or focus on changing the world.</p>
+        <p>But when the disappearance of a friend leads her to uncover a dark government secret, she is forced to choose; Go searching for her friend, or focus on changing the world.</p>
 
 
         <!-- If you want to make your link look like a button, add class="button" to your 'a' tag like so: -->
